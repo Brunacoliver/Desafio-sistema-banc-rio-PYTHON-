@@ -1,4 +1,4 @@
-# Desafio-sistema-banc-rio-PYTHON-
+# Desafio-sistema-bancario-PYTHON-
 Primeiro desafio python 
 
 
